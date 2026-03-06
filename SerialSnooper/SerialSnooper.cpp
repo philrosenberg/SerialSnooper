@@ -1,10 +1,11 @@
+#define NOMINMAX
 #include<windows.h>
 #include<stdio.h>
 #include<iostream>
 #include<string>
 #include<sstream>
 #include<fstream>
-#include<svector/time.h>
+#include<scieng/time.h>
 #include<deque>
 #include<thread>
 
