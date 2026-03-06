@@ -8,4 +8,4 @@ You will need to grab my header only scientific library, as I use my time functi
 
 Build it as usual and to run use a command like
 
-SerialLogger COM4 COM5 \"C:\\Data\\my file.txt
+SerialSnooper COM4 COM5 \"C:\\Data\\my file.txt
